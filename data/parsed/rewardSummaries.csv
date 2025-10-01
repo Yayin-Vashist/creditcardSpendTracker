@@ -1,0 +1,2 @@
+statementDate,cardNumber,cardHolderName,openingBalance,earned,redeemed,adjustedLapsed,closingBalance,parserUsed,importId
+11 Sep 25,XXXX XXXX XXXX XX51,YAYIN VASHIST,1968,158,2000,126,0,sbiParser,dc01d1a5-0eb0-4a7f-9ad0-8dd49ea7b157

@@ -1,0 +1,5 @@
+date,description,merchant,amount,currency,transactionType,rewardPoints,cardNumber,cardHolderName,sourceBank,statementDate,category,subCategory,parserUsed,importId
+2025-08-12,CREDIT BALANCE REFUND -DR,,474.14,INR,DEBIT,,XXXX XXXX XXXX XX51,YAYIN VASHIST,SBI,12 Aug 25 to 11 Sep 25,Uncategorized,Needs Review,sbiParser,24e20008aa93245a65e05174a01105f0
+2025-08-27,CREDIT BALANCE REFUND REVERSAL,,474.14,INR,CREDIT,,XXXX XXXX XXXX XX51,YAYIN VASHIST,SBI,12 Aug 25 to 11 Sep 25,Uncategorized,Needs Review,sbiParser,24e20008aa93245a65e05174a01105f0
+2025-08-28,CREDIT BALANCE REFUND -DR,,474.14,INR,DEBIT,,XXXX XXXX XXXX XX51,YAYIN VASHIST,SBI,12 Aug 25 to 11 Sep 25,Uncategorized,Needs Review,sbiParser,24e20008aa93245a65e05174a01105f0
+2025-08-28,UPI-MARUTHI PROVISION S,,27.0,INR,DEBIT,,XXXX XXXX XXXX XX51,YAYIN VASHIST,SBI,12 Aug 25 to 11 Sep 25,Uncategorized,Needs Review,sbiParser,24e20008aa93245a65e05174a01105f0

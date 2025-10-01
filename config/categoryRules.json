@@ -1,0 +1,38 @@
+{
+    "amazon pay": {
+        "DEBIT": {
+            "category": "Payments",
+            "subCategory": "Wallet"
+        },
+        "CREDIT": {
+            "category": "Income",
+            "subCategory": "Refunds"
+        }
+    },
+    "amazon": {
+        "DEBIT": {
+            "category": "Shopping",
+            "subCategory": "E-Commerce"
+        },
+        "CREDIT": {
+            "category": "Income",
+            "subCategory": "Refunds"
+        }
+    },
+    "bbps": {
+        "DEBIT": {
+            "category": "Utilities",
+            "subCategory": "Bills"
+        },
+        "CREDIT": {
+            "category": "Income",
+            "subCategory": "Bill Refunds"
+        }
+    },
+    "myntra": {
+        "DEBIT": {
+            "category": "Shopping",
+            "subCategory": "Fashion"
+        }
+    }
+}

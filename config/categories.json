@@ -1,0 +1,98 @@
+{
+    "AMAZON DEBIT": {
+        "category": "Payments",
+        "subCategory": "Wallet"
+    },
+    "Amazon Pay": {
+        "category": "Payments",
+        "subCategory": "Wallet"
+    },
+    "Amazon Shopping": {
+        "category": "Shopping",
+        "subCategory": "E-Commerce"
+    },
+    "RCV BBPS": {
+        "category": "Payments",
+        "subCategory": "Credit Card Payment"
+    },
+    "BBPS Payment": {
+        "category": "Payments",
+        "subCategory": "Credit Card Payment"
+    },
+    "BBPS": {
+        "category": "Utilities",
+        "subCategory": "Bills"
+    },
+    "Mobikwik": {
+        "category": "Payments",
+        "subCategory": "Wallet"
+    },
+    "Myntra": {
+        "category": "Shopping",
+        "subCategory": "Fashion"
+    },
+    "INDRAPRASTHA GAS": {
+        "category": "Transport",
+        "subCategory": "Fuel"
+    },
+    "AIR INDIA EXPRESS": {
+        "category": "Travel",
+        "subCategory": "Flights"
+    },
+    "Milkbasket": {
+        "category": "Groceries",
+        "subCategory": "Essentials"
+    },
+    "countrydelight": {
+        "category": "Groceries",
+        "subCategory": "Essentials"
+    },
+    "Country Delight": {
+        "category": "Groceries",
+        "subCategory": "Essentials"
+    },
+    "BPPY CC PAYMENT": {
+        "category": "Payments",
+        "subCategory": "Credit Card Payment"
+    },
+    "AIRTEL": {
+        "category": "Utilities",
+        "subCategory": "Mobile"
+    },
+    "Jio": {
+        "category": "Utilities",
+        "subCategory": "Mobile"
+    },
+    "VODAIDEA": {
+        "category": "Utilities",
+        "subCategory": "Mobile"
+    },
+    "Beejapuri Dairy": {
+        "category": "Groceries",
+        "subCategory": "Essentials"
+    },
+    "GOIBIBOFLIGHT": {
+        "category": "Travel",
+        "subCategory": "Flights"
+    },
+    "cleartrip": {
+        "category": "Travel",
+        "subCategory": "Flights"
+    },
+    "HINDUSTAN PETROLEUM": {
+        "category": "Transport",
+        "subCategory": "Fuel"
+    },
+    "National Highways Auth": {
+        "category": "Transport",
+        "subCategory": "Tolls"
+    },
+    "Hospital": {
+        "category": "Health",
+        "subCategory": "Medical"
+    },
+    "swiggy instamart": {
+        "category": "Groceries",
+        "subCategory": "Essentials"
+    }
+}
